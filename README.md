@@ -11,5 +11,5 @@
 
 ```
 #  Demo 😐 
-  [![WEB](https://img.shields.io/badge/Visit%20Website-GaweshHirunLakshan.github.io/web-red)](https://GaweshHirunLakshan.github.io/web)
+  [![WEB](https://img.shields.io/badge/Visit%20Website-HirunLakshan.github.io/web-red)](https://hirunlakshan.github.io/web-page/)
   
